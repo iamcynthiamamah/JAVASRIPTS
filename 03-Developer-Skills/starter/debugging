@@ -1,0 +1,13 @@
+console.warn 
+console.table          //outputs to the console in a TABLE formet
+console.error        //prints the output error to the console
+
+
+
+//USING DEBUGGER IN GOOGLE CHROME
+    //go to sources on the inspect window
+    //click on script.js
+    //set a break point
+    // reload the page and the execution will freeze at the break point
+//OR
+    //type 'debugger;'
