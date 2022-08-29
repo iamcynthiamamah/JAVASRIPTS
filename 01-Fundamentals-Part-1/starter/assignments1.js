@@ -10,7 +10,7 @@ console.log(population);
 
 
 
-/*---DATA-TYPEs ASSIGNMENT------*/
+/*---DATA-TYPEs ASSIGNMENT-----*/
 const isIsland = false;
 //let language;
 
